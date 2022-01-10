@@ -58,9 +58,100 @@
         "baseURI": "https://api.github.com/repos/aldyhelix/",
         "repositories": [
             "bbook",
+            "bbook-web-api",
             "boiler-store",
+            "boiler-initial",
+            "siakadsd",
             "umkmovement",
-            "aldyhelix-quiz"
+            "hci-web"
+        ]
+    },
+    "deployed_projects": {
+        "Deployed Projects" : [
+            {
+                "jobDesk" : "Maintain and Develop New Feature",
+                "projectName" : "HCI",
+                "companyName" : "PT. Human Cloudz Indonesia",
+                "role" : "Back-end Developer",
+                "url" : "https://humancloudz.com"
+            },
+            {
+                "jobDesk" : "Build and Developing",
+                "projectName" : "Keva Stock Management",
+                "companyName" : "PT. Keva Cosmetics International",
+                "role" : "Full-stack Developer",
+                "url" : "https://inventorykev.com"
+            },
+            {
+                "jobDesk" : "Build and Developing",
+                "projectName" : "Nahdhatul Ulama E-Learning, Member Management System, and Ecommerce",
+                "companyName" : "PT. Infrastrktur Digital Edukasi",
+                "role" : "Back-end Developer",
+                "url" : "https://nu.infraedukasi.com"
+            },
+            {
+                "jobDesk" : "Build and Developing",
+                "projectName" : "Ikatan Guru Indonesia E-Learning, Member Management System, and Ecommerce",
+                "companyName" : "PT. Infrastrktur Digital Edukasi",
+                "role" : "Back-end Developer",
+                "url" : "https://igi.infraedukasi.com"
+            },
+            {
+                "jobDesk" : "Build and Developing",
+                "projectName" : "Asosiasi Badan Permusyawaratan Desa Nasional E-Learning, Member Management System, and Ecommerce",
+                "companyName" : "PT. Infrastrktur Digital Edukasi",
+                "role" : "Back-end Developer",
+                "url" : "https://abpednas.infraedukasi.com"
+            },
+            {
+                "jobDesk" : "Build and Developing",
+                "projectName" : "Recommended Task Application",
+                "companyName" : "PT. Reinovasi Zona Kreasi Indonesia",
+                "role" : "Software Engineer",
+                "url" : "https://rekomen.reinovasi.com"
+            },
+            {
+                "jobDesk" : "Build and Developing",
+                "projectName" : "Rebranding Company Profile",
+                "companyName" : "PT. Reinovasi Zona Kreasi Indonesia",
+                "role" : "Back-end Developer",
+                "url" : "https://reinovasi.com"
+            },
+            {
+                "jobDesk" : "Support Development",
+                "projectName" : "Company Profile OBM Drilchem",
+                "companyName" : "PT. Reinovasi Zona Kreasi Indonesia",
+                "role" : "Support Development",
+                "url" : "https://drilchem.com"
+            },
+            {
+                "jobDesk" : "Maintain",
+                "projectName" : "Kearsipan Kementerian Ketenagakerjaan Republik Indonesia",
+                "companyName" : "PT. Reinovasi Zona Kreasi Indonesia",
+                "role" : "Full-Stack Developer",
+                "url" : "https://arsip.kemnaker.go.id"
+            },
+            {
+                "jobDesk" : "Build, Developing & Maintain",
+                "projectName" : "Yeezy Payroll Web",
+                "companyName" : "ID Core Indonesia",
+                "role" : "Full-Stack Developer",
+                "url" : "Client Local Server"
+            },
+            {
+                "jobDesk" : "Build and Developing",
+                "projectName" : "Company Profile UMKMOVEMENT (Expired)",
+                "companyName" : "",
+                "role" : "Full-Stack Developer",
+                "url" : "https://umkmovement.com"
+            },
+            {
+                "jobDesk" : "Build and Developing",
+                "projectName" : "Company Profile PT.Inti Raya Anugrah Tama (Expired)",
+                "companyName" : "PT. Inti Raya Anugrah Tama",
+                "role" : "Full-Stack Developer",
+                "url" : "https://intirayaanugrahtama.id"
+            }
         ]
     },
     "experience": {

@@ -8,6 +8,7 @@ import About from '../src/About';
 import data from '../data.json';
 import { darkTheme, lightTheme } from '../src/theme';
 import { Brightness4, Brightness7 } from '@material-ui/icons';
+import DeployedProject from '../src/DeployedProject';
 const { name, projects } = data
 
 const useStyles = makeStyles(theme => ({
@@ -78,6 +79,7 @@ export default function Index({ projects, setTheme }) {
         <Skills />
         <Projects data={projects}/>
         <Experience/>
+        <DeployedProject />
         <About/>
       </Container>
     </div>
