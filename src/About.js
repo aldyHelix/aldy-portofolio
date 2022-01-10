@@ -53,15 +53,15 @@ export default function About() {
 
     return(
         <Grid direction="row" container justify="center" alignItems="center" className={classes.cont}>
-            <Grid item xs={12} lg={6}>
+            <Grid item xs={12} lg={8}>
                 <Typography variant="h2" gutterBottom component="p">
                     About me
                 </Typography>
-                <Typography variant="h5" gutterBottom component="p">
+                <Typography variant="h6" gutterBottom component="p">
                     {about.description}
                 </Typography>                
             </Grid>
-            <Grid container direction="column" item xs={12} lg={6} spacing={2} justify="center" alignItems="center">
+            <Grid container direction="column" item xs={12} lg={4} spacing={2} justify="center" alignItems="center">
                 <Grid item xs={12}>
                     <Avatar variant="rounded" className={classes.dp}>
                         <Image
