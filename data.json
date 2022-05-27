@@ -69,6 +69,13 @@
     "deployed_projects": {
         "Deployed Projects" : [
             {
+                "jobDesk" : "Build and Development",
+                "projectName" : "Sneakers.id",
+                "companyName" : "Freelence",
+                "role" : "Full-Stack Developer",
+                "url" : "https://sneakers.id"
+            },
+            {
                 "jobDesk" : "Maintain and Develop New Feature",
                 "projectName" : "HCI",
                 "companyName" : "PT. Human Cloudz Indonesia",
