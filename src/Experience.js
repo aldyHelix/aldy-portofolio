@@ -19,6 +19,14 @@ const useStyles = makeStyles(theme => ({
     cardActionArea: {
         height: '100%',
     },
+    cardImages: {
+        alignItems: 'center',
+        textAlign: 'center'
+    },
+    cardOrganization: {
+        minHeight: '200px',
+        maxHeight: '250px',
+    },
     expObj: {
         marginBottom: theme.spacing(4)
     }
@@ -124,8 +132,12 @@ export default function Experience() {
                                                                     />
                                                                 </Avatar>
                                                             }
+                                                            className={classes.cardImages} 
+                                                        />
+                                                        <CardHeader
                                                             title={organization}
                                                             subheader={role + " - " + type}
+                                                            className={classes.cardOrganization}
                                                         />
                                                         <CardHeader
                                                             avatar={<DateRange />}

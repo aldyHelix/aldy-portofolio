@@ -155,17 +155,30 @@
         ]
     },
     "experience": {
-        "Work Experience": [{
+        "Work Experience": [
+            {
+                "organization": "Celerates (PT. Mitra Talenta Group)",
+                "role": "Software Engineer",
+                "type": "Full-time Job",
+                "startDate": "2022-05-09",
+                "endDate": "Current",
+                "city": "Jakarta Selatan",
+                "state": "DKI Jakarta",
+                "country": "Indonesia",
+                "url": "https://www.linkedin.com/company/celerates/",
+                "thumbnail": "/company/celerates.jpg"
+            },
+            {
                 "organization": "PT. Infrastruktur Digital Edukasi",
                 "role": "Software Engineer",
                 "type": "Full-time Job",
                 "startDate": "2021-06-28",
-                "endDate": "Current",
+                "endDate": "2022-04-28",
                 "city": "Jakarta Barat",
                 "state": "DKI Jakarta",
                 "country": "Indonesia",
                 "url": "https://www.linkedin.com/company/ide-edukasi/mycompany/",
-                "thumbnail": "https://media-exp1.licdn.com/dms/image/C560BAQF5WXsuEQ3P2Q/company-logo_100_100/0/1614825678323?e=1649894400&v=beta&t=7m1YcQQOGB0jjPJBCxO1knDwoH4YeMO3qDfCFnQ7fU4"
+                "thumbnail": "/company/ide.jpg"
             },
             {
                 "organization": "PT. Reinovasi Zona Kreasi Indonesia",
@@ -177,9 +190,8 @@
                 "state": "Jawa Barat",
                 "country": "Indonesia",
                 "url": "https://www.linkedin.com/company/pt-reinovasi-zona-kreasi-indonesia/",
-                "thumbnail": "https://media-exp1.licdn.com/dms/image/C510BAQH3ewU6Vp01CA/company-logo_100_100/0/1568599769467?e=1649894400&v=beta&t=7zMJElC5PjK8M1adlgI6VTKmQ2z-lSjqI36VMdBs3DU"
-            }],
-        " ": [
+                "thumbnail": "/company/reinovasi.jpg"
+            },
             {
                 "organization": "ID Core Indonesia",
                 "role": "Web Developer",
@@ -190,8 +202,9 @@
                 "state": "Jawa Timur",
                 "country": "Indonesia",
                 "url": "https://www.linkedin.com/company/id-core-indonesia/",
-                "thumbnail": "https://media-exp1.licdn.com/dms/image/C560BAQFiIXMuCRXsdg/company-logo_100_100/0/1604301293016?e=1649894400&v=beta&t=BqEsFztoXEmLImeGQxBDzPLg9L9fvBsHCe9eMUNzDGQ"
-            }]
+                "thumbnail": "/company/idcore.jpg"
+            }
+        ]
     },
     "about": {
         "description": "My name is Aldy Satria Gumilar, I am a motivated Back-end Software Engineer with expertise in researching, Human Resource Information System, Designing Architecture, and developing new features as part of a large scale of development team. During my career, aside from well engaged with my team, I also contributed from documentation, preparing release packages, and to write test cases as part of my work experience.",
