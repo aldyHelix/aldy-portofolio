@@ -6,8 +6,6 @@
             "Back-end developer",
             "Full-stack developer",
             "Freelence",
-            "Beginner in NodeJs",
-            "Beginner in Go"
         ],
         "professionalDetails": [{
                 "alt": "aldy-satria-gumilar",
@@ -30,33 +28,41 @@
         "Languages known": [
             "PHP",
             "JavaScript",
+            "TypeScript",
             "Go",
             "Python",
             "HTML5",
             "CSS3",
-            "Dart"
+            "Dart",
+            "XML",
         ],
         "Frontend": [
             "TailwindCSS",
+            "ReactJs",
             "Next.js",
             "Vercel",
             "Bootstrap"
         ],
         "Backend, Database": [
             "Node.js",
+            "Go",
+            "Golang grpc",
             "Express",
             "Laravel",
             "Lumen",
             "MongoDB",
             "MySQL",
             "PostgreSQL",
+            "CockroachDB",
             "Heroku",
-            "Firebase"
+            "Firebase",
+            "VPS",
         ]
     },
     "projects": {
         "baseURI": "https://api.github.com/repos/aldyhelix/",
         "repositories": [
+            "sneakers.id_web_dev",
             "bbook",
             "bbook-web-api",
             "boiler-store",
@@ -69,56 +75,70 @@
     "deployed_projects": {
         "Deployed Projects" : [
             {
-                "jobDesk" : "Build and Development",
-                "projectName" : "Sneakers.id",
-                "companyName" : "Freelence",
+                "jobDesk" : "Refactoring, Implementing New Business Process, Deployment",
+                "projectName" : "SitaraCore APP",
+                "companyName" : "Badan Pengelola Tabungan Perumahan Rakyat (BP Tapera)",
+                "role" : "Backend Web Developer",
+                "url" : "#"
+            },
+            {
+                "jobDesk" : "Crafting, Integrating, Syncing and Advancement Portal Site",
+                "projectName" : "Portal Satu Data ASN",
+                "companyName" : "Badan Kepegawaian Negara",
+                "role" : "Full-Stack Developer",
+                "url" : "https://satudataasn.bkn.go.id/"
+            },
+            {
+                "jobDesk" : "Crafting and Advancement",
+                "projectName" : "SNEAKERS.ID",
+                "companyName" : "sneakers.id",
                 "role" : "Full-Stack Developer",
                 "url" : "https://sneakers.id"
             },
             {
-                "jobDesk" : "Maintain and Develop New Feature",
-                "projectName" : "HCI",
-                "companyName" : "PT. Human Cloudz Indonesia",
-                "role" : "Back-end Developer",
-                "url" : "https://humancloudz.com"
-            },
-            {
-                "jobDesk" : "Build and Developing",
+                "jobDesk" : "Build, Refinement and Developing",
                 "projectName" : "Keva Stock Management",
                 "companyName" : "PT. Keva Cosmetics International",
                 "role" : "Full-stack Developer",
                 "url" : "https://inventorykev.com"
             },
             {
-                "jobDesk" : "Build and Developing",
+                "jobDesk" : "Establishment, Crafting Feature and Improvement",
+                "projectName" : "HCI",
+                "companyName" : "PT. Human Cloudz Indonesia",
+                "role" : "Back-end Developer",
+                "url" : "https://humancloudz.com"
+            },
+            {
+                "jobDesk" : "Innovation and Growth",
                 "projectName" : "Nahdhatul Ulama E-Learning, Member Management System, and Ecommerce",
                 "companyName" : "PT. Infrastrktur Digital Edukasi",
                 "role" : "Back-end Developer",
                 "url" : "https://nu.infraedukasi.com"
             },
             {
-                "jobDesk" : "Build and Developing",
+                "jobDesk" : "Innovation and Growth",
                 "projectName" : "Ikatan Guru Indonesia E-Learning, Member Management System, and Ecommerce",
                 "companyName" : "PT. Infrastrktur Digital Edukasi",
                 "role" : "Back-end Developer",
                 "url" : "https://igi.infraedukasi.com"
             },
             {
-                "jobDesk" : "Build and Developing",
+                "jobDesk" : "Innovation and Growth",
                 "projectName" : "Asosiasi Badan Permusyawaratan Desa Nasional E-Learning, Member Management System, and Ecommerce",
                 "companyName" : "PT. Infrastrktur Digital Edukasi",
                 "role" : "Back-end Developer",
                 "url" : "https://abpednas.infraedukasi.com"
             },
             {
-                "jobDesk" : "Build and Developing",
+                "jobDesk" : "Crafting, Innovation and Growth",
                 "projectName" : "Recommended Task Application",
                 "companyName" : "PT. Reinovasi Zona Kreasi Indonesia",
-                "role" : "Software Engineer",
+                "role" : "Full Stack Developer",
                 "url" : "https://rekomen.reinovasi.com"
             },
             {
-                "jobDesk" : "Build and Developing",
+                "jobDesk" : "Refactor, Establishment, Refinement, and Improvement",
                 "projectName" : "Rebranding Company Profile",
                 "companyName" : "PT. Reinovasi Zona Kreasi Indonesia",
                 "role" : "Back-end Developer",
@@ -128,11 +148,11 @@
                 "jobDesk" : "Support Development",
                 "projectName" : "Company Profile OBM Drilchem",
                 "companyName" : "PT. Reinovasi Zona Kreasi Indonesia",
-                "role" : "Support Development",
+                "role" : "Backend Developer",
                 "url" : "https://drilchem.com"
             },
             {
-                "jobDesk" : "Maintain",
+                "jobDesk" : "Maintain, Refinement, and Improvement",
                 "projectName" : "Kearsipan Kementerian Ketenagakerjaan Republik Indonesia",
                 "companyName" : "PT. Reinovasi Zona Kreasi Indonesia",
                 "role" : "Full-Stack Developer",
@@ -146,14 +166,14 @@
                 "url" : "Client Local Server"
             },
             {
-                "jobDesk" : "Build and Developing",
+                "jobDesk" : "Crafting, Innovation and Growth",
                 "projectName" : "Company Profile UMKMOVEMENT (Expired)",
-                "companyName" : "",
+                "companyName" : "Proposal Kegiatan Mahasiswa Universitas Brawijaya Malang",
                 "role" : "Full-Stack Developer",
                 "url" : "https://umkmovement.com"
             },
             {
-                "jobDesk" : "Build and Developing",
+                "jobDesk" : "Crafting, Innovation and Growth",
                 "projectName" : "Company Profile PT.Inti Raya Anugrah Tama (Expired)",
                 "companyName" : "PT. Inti Raya Anugrah Tama",
                 "role" : "Full-Stack Developer",
@@ -165,7 +185,7 @@
         "Work Experience": [
             {
                 "organization": "Celerates (PT. Mitra Talenta Group)",
-                "role": "Software Engineer",
+                "role": "Enterprise Application Developer",
                 "type": "Full-time Job",
                 "startDate": "2022-05-09",
                 "endDate": "Current",
@@ -179,8 +199,8 @@
                 "organization": "PT. Infrastruktur Digital Edukasi",
                 "role": "Software Engineer",
                 "type": "Full-time Job",
-                "startDate": "2021-06-28",
-                "endDate": "2022-04-28",
+                "startDate": "2021-06-03",
+                "endDate": "2022-05-07",
                 "city": "Jakarta Barat",
                 "state": "DKI Jakarta",
                 "country": "Indonesia",
@@ -191,8 +211,8 @@
                 "organization": "PT. Reinovasi Zona Kreasi Indonesia",
                 "role": "Software Engineer",
                 "type": "Full Time Job, Kontrak",
-                "startDate": "2020-07-01",
-                "endDate": "2021-06-25",
+                "startDate": "2020-04-01",
+                "endDate": "2021-05-29",
                 "city": "Depok",
                 "state": "Jawa Barat",
                 "country": "Indonesia",
@@ -201,10 +221,10 @@
             },
             {
                 "organization": "ID Core Indonesia",
-                "role": "Web Developer",
+                "role": "Web ApplicationDeveloper",
                 "type": "Full Time Job, Kontrak",
-                "startDate": "2019-06-26",
-                "endDate": "2020-06-30",
+                "startDate": "2019-01-26",
+                "endDate": "2020-04-30",
                 "city": "Malang",
                 "state": "Jawa Timur",
                 "country": "Indonesia",
@@ -214,7 +234,10 @@
         ]
     },
     "about": {
-        "description": "My name is Aldy Satria Gumilar, I am a motivated Back-end Software Engineer with expertise in researching, Human Resource Information System, Designing Architecture, and developing new features as part of a large scale of development team. During my career, aside from well engaged with my team, I also contributed from documentation, preparing release packages, and to write test cases as part of my work experience.",
+        "description": `
+        OK
+        NOK
+        `,
         "picture": "/profile.jpg",
         "social": [{
                 "alt": "aldyhelix",
