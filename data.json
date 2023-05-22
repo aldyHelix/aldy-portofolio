@@ -33,12 +33,11 @@
             "Python",
             "HTML5",
             "CSS3",
-            "Dart",
-            "XML"
+            "Dart"
         ],
         "Frontend": [
             "TailwindCSS",
-            "ReactJs",
+            "React",
             "Next.js",
             "Vercel",
             "Bootstrap"
@@ -46,7 +45,6 @@
         "Backend, Database": [
             "Node.js",
             "Go",
-            "Golang grpc",
             "Express",
             "Laravel",
             "Lumen",
@@ -104,7 +102,7 @@
             },
             {
                 "jobDesk" : "Establishment, Crafting Feature and Improvement",
-                "projectName" : "HCI",
+                "projectName" : "Humancloudz Indonesia",
                 "companyName" : "PT. Human Cloudz Indonesia",
                 "role" : "Back-end Developer",
                 "url" : "https://humancloudz.com"
@@ -235,7 +233,7 @@
     },
     "about": {
         "description": "As a skilled Back-end Developer, I bring over 4+ years of experience in software development, with a specific focus on Golang and Laravel. My deep understanding of these languages has allowed me to create high-performing, scalable applications that meet clients' needs while delivering a seamless user experience.My commitment to excellence is demonstrated in my ability to lead development teams and understand client requirements, ensuring projects are delivered on time and to specification. I have a proven track record of robust client request handling and query optimization, resulting in optimal application performance.In my previous role, I honed my expertise in Golang, developing efficient and effective solutions for a variety of use cases. Additionally, my experience in Laravel spans 3 years, giving me a deep understanding of the platform's architecture and how to maximize its capabilities.I am passionate about staying up-to-date with the latest trends and developments in the industry, and I am constantly seeking opportunities to improve my skills and knowledge. I am confident that my strong work ethic, attention to detail, and ability to work collaboratively make me an ideal candidate for any development project.In addition to my technical skills, I bring a confident and adaptable approach to every project, allowing me to quickly adapt to changing requirements and deliver solutions that meet user needs. I have a proven ability to understand complex technology problems and translate them into actionable solutions, resulting in improved user experiences and increased customer satisfaction.Whether working independently or as part of a team, I always strive for excellence and take a collaborative approach to problem-solving. My strong communication skills allow me to build strong relationships with clients and stakeholders, ensuring that all parties are aligned and working towards a common goal.If you're looking for a skilled and dedicated Back-end Developer with a deep understanding of Golang and Laravel, please don't hesitate to reach out. I'm excited to discuss how I can contribute to your organization's success.",
-        "picture": "/profile.jpg",
+        "picture": "/profile-2.jpeg",
         "social": [{
                 "alt": "aldyhelix",
                 "icon": "instagram",

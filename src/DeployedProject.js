@@ -1,7 +1,6 @@
-import { Avatar, Card, CardActionArea, CardHeader, Fade, Grid, Hidden, makeStyles, Typography, useMediaQuery, useTheme, CardContent, CardActions, Chip } from "@material-ui/core";
-import Image from 'next/image'
-import { RepoForkedIcon, RepoIcon, StarIcon } from '@primer/octicons-react';
-import { DateRange, LocationCity } from '@material-ui/icons';
+import { Avatar, Card, CardOverflow ,CardActionArea, CardHeader,Divider , Fade, Grid, Hidden, makeStyles, Typography, useMediaQuery, useTheme, CardContent, CardActions, Chip } from "@material-ui/core";
+
+import { RepoIcon} from '@primer/octicons-react';
 import data from '../data.json'
 import { useRef } from "react";
 import useAnimate from "./useAnimate";
@@ -15,14 +14,17 @@ const useStyles = makeStyles(theme => ({
         height: '100%',
     },
     cardHeader: {
-        paddingTop: 0
+		minHeight: '15vh'
     },
     cardActionArea: {
         height: '100%',
     },
     expObj: {
         marginBottom: theme.spacing(4)
-    }
+    },
+	cardContent: {
+		minHeight: '20vh'
+	}
 }))
 
 export default function DeployedProject() {
@@ -36,7 +38,6 @@ export default function DeployedProject() {
     const animRef = useRef(null)
     const animate = useAnimate(animRef)
 
-	console.log(deployed_projects)
     return (
 		<Grid direction="row-reverse" container justify="center" alignItems="center" spacing={10} className={classes.cont}>
 			<Grid container item xs={12} lg={12} direction="row" spacing={1} alignItems={align}>
@@ -57,27 +58,27 @@ export default function DeployedProject() {
                                     }, i) => 
 										<Grid item sm={3} xs={12} key={i}>
 											<Fade in={animate} style={{ transitionDelay: `${200 * i}ms` }}>
-												<Card key={i} className={classes.card}>
+												<Card key={i} className={classes.card} variant="outlined">
 													<CardActionArea
 														className={classes.cardActionArea}
 														href={url}
 														target="_blank"
 														rel="noopener noreferrer"
 													>
-														<CardHeader
-															title={<><RepoIcon verticalAlign='middle' /> {projectName}</>}
+														<CardHeader className={classes.cardHeader}
+															title={<><RepoIcon verticalAlign='middle' /> {companyName}</>}
 														/>
-														<CardContent>
-															<Typography variant="body2" color="textSecondary" component="p">
-																{projectName}
-															</Typography>
-															<Typography variant="body2" color="textSecondary" component="p">
+														<CardContent className={classes.cardContent}>
+															<Typography level="body3" align="right" sx={{ alignItems: 'flex-end', wordBreak: 'break-all' }}>
 																{jobDesk}
 															</Typography>
-															<Typography variant="body2" color="textSecondary" component="p">
-																{companyName}
+															<Divider inset="none" />
+															<Typography level="h2" sx={{ fontSize: 'md', mt: 2 }}>
+																Project name :	{projectName}
 															</Typography>
+															
 														</CardContent>
+														<Divider />
 														<CardActions>
 															<Grid container direction="row" spacing={1}>
 																<Grid item key={i}>
