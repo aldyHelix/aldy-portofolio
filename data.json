@@ -60,14 +60,20 @@
     "projects": {
         "baseURI": "https://api.github.com/repos/aldyhelix/",
         "repositories": [
+            "dummy-subscription-worker-file-processing-grpc",
+            "golang-cheat-sheet",
             "sneakers.id_web_dev",
             "bbook",
             "bbook-web-api",
+            "golang-11-project",
+            "gitflow",
+            "mern-exercise-tracker",
+            "sispakarhiv-v2",
+            "aldyhelix.github.io",    
             "boiler-store",
             "boiler-initial",
             "siakadsd",
-            "umkmovement",
-            "hci-web"
+            "umkmovement"
         ]
     },
     "deployed_projects": {
